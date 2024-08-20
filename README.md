@@ -9,8 +9,13 @@
 
 以下列舉本主題相關的解決方案：
 
+* Bitbucket
+* Gitee
+* GitHub
+* GitLab
 * [Launchpad](https://gitlab.com/libre-knowledge/launchpad)  
   由 Canonical 公司所推出的開放來源碼專案託管服務
+* SourceForge
 
 <!--
 ## 基本概念
