@@ -11,3 +11,7 @@
 	path = Launchpad
 	url = https://gitlab.com/libre-knowledge/launchpad.git
 	ignore = dirty
+[submodule "GitHub"]
+	path = GitHub
+	url = https://gitlab.com/libre-knowledge/github.git
+	ignore = dirty

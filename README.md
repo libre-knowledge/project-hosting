@@ -11,7 +11,8 @@
 
 * Bitbucket
 * Gitee
-* GitHub
+* [GitHub](https://gitlab.com/libre-knowledge/github)  
+  支援 Git 版控庫託管與其他功能的專案託管平台
 * GitLab
 * [Launchpad](https://gitlab.com/libre-knowledge/launchpad)  
   由 Canonical 公司所推出的開放來源碼專案託管服務
