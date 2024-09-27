@@ -15,3 +15,7 @@
 	path = GitHub
 	url = https://gitlab.com/libre-knowledge/github.git
 	ignore = dirty
+[submodule "GitLab"]
+	path = GitLab
+	url = https://gitlab.com/libre-knowledge/gitlab.git
+	ignore = dirty
